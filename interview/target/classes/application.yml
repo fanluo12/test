@@ -1,0 +1,8 @@
+# Use this file if you want to run your JAVA project locally instead of using the config server
+
+spring:
+  application:
+    name: application
+
+logging:
+  path: /logs
